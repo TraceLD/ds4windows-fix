@@ -10,7 +10,7 @@ Without DevManView this script is impossible to run.
 
 1. Create a folder somewhere
 
-2. [Download DevManView] (https://www.nirsoft.net/utils/device_manager_view.html)
+2. [Download DevManView](https://www.nirsoft.net/utils/device_manager_view.html)
 
 3. Place DevManView in the folder you've created
 
@@ -24,4 +24,4 @@ BOOM. ONE-CLICK FIX WHENEVER IT HAPPENS AGAIN.
 
 ### Final notes
 
-```devmanview.exe /disable "HID-compliant game controller"``` may possibly be unnecessary, but it just makes sure the device is disabled when you run the script as sometimes completely glitches out and shows up as "enabled" despite being disabled.
+```devmanview.exe /disable "HID-compliant game controller"``` may possibly be unnecessary, but it just makes sure the device is disabled when you run the script as sometimes it completely glitches out and shows up as "enabled" despite being disabled.
