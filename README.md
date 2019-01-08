@@ -24,4 +24,4 @@ BOOM. ONE-CLICK FIX WHENEVER IT HAPPENS AGAIN.
 
 ### Final notes
 
-```devmanview.exe /disable "HID-compliant game controller"``` may possibly be unnecessary, but it just makes sure the device is disabled when you run the script as sometimes completely glitches out and shows up as "enabled" despite being disabled.
+```devmanview.exe /disable "HID-compliant game controller"``` may possibly be unnecessary, but it just makes sure the device is disabled when you run the script as sometimes it completely glitches out and shows up as "enabled" despite being disabled.
