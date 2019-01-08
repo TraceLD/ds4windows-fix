@@ -10,7 +10,7 @@ Without DevManView this script is impossible to run.
 
 1. Create a folder somewhere
 
-2. [Download DevManView] (https://www.nirsoft.net/utils/device_manager_view.html)
+2. [Download DevManView](https://www.nirsoft.net/utils/device_manager_view.html)
 
 3. Place DevManView in the folder you've created
 
