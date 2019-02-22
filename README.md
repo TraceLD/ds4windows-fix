@@ -8,7 +8,7 @@ Full credit to the creators of [DevManView (NirSoft, Nir Sofer).](https://www.ni
 
 ## Automated Installation
 
-*Disclaimer: This installer requires PowerShell. Regular version of the fix makes use of only Batchfile.*
+*Disclaimer: This installer requires PowerShell. Regular version of the fix makes use of only Batchfile. If your OS doesn't support PowerShell for whatever reason or you don't want to deal with it, skip to Manual Installation.*
 
 1. Download `inst.ps1` and `installer.bat` from [here](https://github.com/TraceLD/ds4windows-fix/releases/tag/final).
 
