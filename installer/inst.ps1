@@ -20,7 +20,6 @@ function Unzip
 Unzip "$env:ProgramFiles\ds4windows-fix\devmanview-x64.zip" "$env:ProgramFiles\ds4windows-fix\"
 
 Remove-Item $PathToProgram\devmanview-x64.zip
-Remove-Item $PathToProgram\readme.txt
 
 New-Item $PathToProgram\fix.bat
 
