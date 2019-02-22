@@ -1,6 +1,6 @@
 # ds4windows-fix
 
-**This is a simple Batchfile script and doesn't require PowerShell. PowerShell is only required for the automated installator. Feel free to install the fix manually.**
+**This is a simple Batchfile script and doesn't require PowerShell. PowerShell is only required for the automated installer. Feel free to install the fix manually.**
 
 Fix an annoying bug with DS4Windows where the controller disables itself with this one-click script
 
@@ -8,7 +8,7 @@ Full credit to the creators of [DevManView (NirSoft, Nir Sofer).](https://www.ni
 
 ## Automated Installation
 
-*Disclaimer: This installator requires PowerShell. Regular version of the fix makes use of only Batchfile.*
+*Disclaimer: This installer requires PowerShell. Regular version of the fix makes use of only Batchfile.*
 
 1. Download `inst.ps1` and `installer.bat` from [here](https://github.com/TraceLD/ds4windows-fix/releases/tag/final).
 
