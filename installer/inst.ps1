@@ -5,7 +5,7 @@ mkdir ds4windows-fix
 $PathToProgram = "$env:ProgramFiles\ds4windows-fix"
 
 $DevUrl = "https://www.nirsoft.net/utils/devmanview-x64.zip"
-$DevOutput = "$pathToProgram\devmanview-x64.zip"
+$DevOutput = "$PathToProgram\devmanview-x64.zip"
 
 (New-Object System.Net.WebClient).DownloadFile($DevUrl, $DevOutput)
 

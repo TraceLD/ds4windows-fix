@@ -16,7 +16,7 @@ Full credit to the creators of [DevManView (NirSoft, Nir Sofer).](https://www.ni
 
 3. Run `installer.bat` as administrator. The script will fail if you don't run it as administrator.
 
-4. The script will download DevManView and the fix to `Program Files\ds4-windows` and create a shortcut to the fix on the desktop called `fix`. Feel free to rename it.
+4. The script will download DevManView and the fix to `Program Files\ds4windows-fix` and create a shortcut to the fix on the desktop called `fix`. Feel free to rename the shortcut.
 
 5. Run the fix via the shortcut whenever you encounter the DS4Windows bug.
 
