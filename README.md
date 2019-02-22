@@ -33,9 +33,3 @@ Full credit to the creators of [DevManView (NirSoft, Nir Sofer).](https://www.ni
 5. Make a shortcut to fix.bat
 
 5. Run the fix via the shortcut whenever you encounter the DS4Windows bug.
-
-BOOM. ONE-CLICK FIX WHENEVER IT HAPPENS AGAIN.
-
-### Final notes
-
-```devmanview.exe /disable "HID-compliant game controller"``` may possibly be unnecessary, but it just makes sure the device is disabled when you run the script as sometimes it completely glitches out and shows up as "enabled" despite being disabled.
