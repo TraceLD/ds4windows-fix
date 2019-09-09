@@ -1,8 +1,8 @@
-# stop the script if controllers can't be re-enabled
-$ErrorActionPreference = "Stop"
-
 # you can't disable/enable devices without having administrator privileges, so we need to ask for them
 if (!([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole] "Administrator")) { Start-Process powershell.exe "-NoProfile -ExecutionPolicy Bypass -File `"$PSCommandPath`"" -Verb RunAs; exit }
+
+# stop the script if controllers can't be re-enabled
+$ErrorActionPreference = "Stop"
 
 foreach ($device in (Get-PnpDevice -FriendlyName 'HID-compliant game controller')) {
     # sometimes when the bug happens, the controller shows as enabled even though it's disabled
