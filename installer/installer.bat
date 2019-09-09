@@ -1,1 +1,0 @@
-powershell.exe -executionpolicy bypass %~dp0inst.ps1
